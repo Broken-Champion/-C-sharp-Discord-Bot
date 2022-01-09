@@ -28,7 +28,7 @@ namespace TutorialBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "OTI1MTQxOTEzMzE1NzI1Mzkz.YcozjA.fDOEvgPi77obBTwjThr9qwx2qqo";
+            string token = "Token PLace Holder";
 
             _client.Log += _client_Log;
 
